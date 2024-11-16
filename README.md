@@ -3,7 +3,7 @@
 -  👯 I’m looking to collaborate on projects that involve C++, Python
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="./icons/LinkedIn.svg" />](https://www.linkedin.com/in/tasengmancheykhun)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="./icons/LinkedIn.svg" />](https://www.linkedin.com/in/tasengmancheykhun)
 
 <br/>
 <hr/>
