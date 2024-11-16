@@ -29,11 +29,10 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="30px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
-<img align="left" alt="Python" width="30px" src="https://github.com/user-attachments/assets/f90063a9-6dce-4b9a-b0c7-3770386b4ecf" />
-<img align="left" alt="Python" width="30px" src="https://github.com/user-attachments/assets/484d369a-8d1f-458b-897c-9f489881fcd8" />
-
-
+<img align="left" src="C.svg" width="30">
+<img align="left" src="CPP.svg" width="30">
+<img align="left" src="Fortran.svg" width="30">
+<img align="left" src="Python-Dark.svg" width="30">
 
 <!--
 
