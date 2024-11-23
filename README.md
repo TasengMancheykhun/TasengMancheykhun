@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Taseng Mancheykhun
 -  🌱 I’m currently learning parallel programming in GPU using CUDA
--  👯 I’m looking to collaborate on projects that involve C++, Python
+-  👯 I’m looking to collaborate on projects that involve C, C++, Python
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="./icons/LinkedIn.svg" />](https://www.linkedin.com/in/tasengmancheykhun)
