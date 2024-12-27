@@ -17,7 +17,7 @@
 <img align="left" src="./icons/Ubuntu-Light.svg" width="30">
 <img align="left" src="./icons/VSCode-Light.svg" width="30">
 <img align="left" src="./icons/VIM-Light.svg" width="30">
-<img align="left" src="./icons/Blender-Light.svg" width="30">
+<!--<img align="left" src="./icons/Blender-Light.svg" width="30">
 
 
 <!--
